@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">predictsee</string>
+
+    <string-array name="car_brands">
+        <item>Alfa-romero</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Buick</item>
+        <item>Chevrolet</item>
+        <item>Dodge</item>
+        <item>Honda</item>
+        <item>Isuzu</item>
+        <item>Jaguar</item>
+        <item>Mazda</item>
+        <item>Mercury</item>
+        <item>Mitsubishi</item>
+        <item>Nissan</item>
+        <item>Peugeot</item>
+        <item>Plymouth</item>
+        <item>Porsche</item>
+        <item>Renault</item>
+        <item>Saab</item>
+        <item>Subaru</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+
+    <string-array name="car_transmission">
+        <item>Automatic</item>
+        <item>Manual</item>
+    </string-array>
+
+    <string-array name="car_fuels">
+        <item>Diesel</item>
+        <item>Gas</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051223488770",
+    "firebase_url": "https://predictsee-2e9f8.firebaseio.com",
+    "project_id": "predictsee-2e9f8",
+    "storage_bucket": "predictsee-2e9f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051223488770:android:81ffde9b31bc0192776a1b",
+        "android_client_info": {
+          "package_name": "id.garudahacks.predictsee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051223488770-dflsjueljt1nnoqh4hjt956e1nem4obf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.garudahacks.predictsee",
+            "certificate_hash": "bc3fe6436d348879ed746349456a46c73ff6b70e"
+          }
+        },
+        {
+          "client_id": "1051223488770-lg5v6lhrgbdqt3gb0b1s626op1u238kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirqzFWxeFv-poggZqG75aXTdVUh_pnI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051223488770-lg5v6lhrgbdqt3gb0b1s626op1u238kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
